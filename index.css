@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Poppins";
+  src: url(fonts/Poppins-Regular.ttf);
+}
+
+* {
+  font-family: "Poppins";
+}
+
+.mx-auto {
+  width: 800px;
+}
+
+.card {
+  margin-top: 10px;
+}
